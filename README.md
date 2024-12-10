@@ -71,7 +71,7 @@ If you use this code in your research, please cite:
 @article{gkd-er2024,
   title={GKD-ER: Gradient-space Knowledge Distillation with Episodic Replay for Mitigating Catastrophic Forgetting in Continual Learning},
   author={John Tian},
-  journal={viXra preprint viXra:2024.xxxx},
+  journal={viXra preprint viXra:2412.0057},
   year={2024}
 }
 ```
