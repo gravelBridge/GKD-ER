@@ -1,6 +1,6 @@
 # GKD-ER: Gradient-space Knowledge Distillation with Episodic Replay for Mitigating Catastrophic Forgetting in Continual Learning
 
-This repository contains an implementation of our paper "GKD-ER: Gradient-space Knowledge Distillation with Episodic Replay for Mitigating Catastrophic Forgetting in Continual Learning" and experiments with various continual learning methods for the Permuted MNIST task, including our novel GKD-ER (Gradient-space Knowledge Distillation with Episodic Replay) approach.
+This repository contains an implementation of our paper ["GKD-ER: Gradient-space Knowledge Distillation with Episodic Replay for Mitigating Catastrophic Forgetting in Continual Learning"](https://vixra.org/abs/2412.0057) and experiments with various continual learning methods for the Permuted MNIST task, including our novel GKD-ER (Gradient-space Knowledge Distillation with Episodic Replay) approach.
 
 ## Methods Implemented
 
